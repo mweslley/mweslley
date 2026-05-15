@@ -11,7 +11,7 @@
 <br/><br/>
 
 [![Site](https://img.shields.io/badge/LOJAMWO.COM.BR-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lojamwo.com.br)
-[![Email](https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:topmarketingdigital.oficial@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.weslley@lojamwo.com.br)
 
 </div>
 
@@ -107,7 +107,7 @@ const michel = {
 <br/>
 
 [![Site](https://img.shields.io/badge/LOJAMWO.COM.BR-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lojamwo.com.br)
-[![Email](https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:topmarketingdigital.oficial@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.weslley@lojamwo.com.br)
 
 <br/>
 
