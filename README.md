@@ -39,7 +39,7 @@ A vitrine e o painel de tudo ficam na [**Loja MWO**](https://lojamwo.com.br): o 
 | Produto | O que faz |
 |---|---|
 | **Hospedagem de Bots** | Mantém o bot do cliente ligado 24 horas, em várias linguagens. O painel tem console, arquivos e uso de memória, e o plano pode crescer conforme a necessidade. |
-| **Divulgador Discord** | Publica a divulgação do servidor do cliente de forma automática e programada, com mensagens que se alternam, o nome e a foto que ele escolher e um plano grátis para começar. |
+| **Divulgador Discord** | Publica a divulgação do servidor do cliente de forma automática e programada, com mensagens que se alternam, o nome e a foto que a pessoa escolher e um plano grátis para começar. |
 | **Bot de Vendas** | Transforma o servidor do Discord em uma loja: produtos, painéis, carrinho privado, cupons e entrega automática. O Pix cai direto na conta do vendedor, sem mensalidade, e o Grupo MW cobra uma taxa pequena por venda. |
 | **Bot Próprio** | O bot com o nome e a foto do cliente, hospedado por nós. Ele escolhe os módulos (vendas, atendimento com tickets e administração) e paga uma mensalidade fixa, sem taxa por venda. |
 | **MWCode** | Plataforma [open-source](https://github.com/mweslley/mwcode) de agentes de inteligência artificial: um agente sozinho ou uma equipe de agentes coordenada. |
