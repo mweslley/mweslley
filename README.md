@@ -46,7 +46,6 @@ O **Grupo MW** é uma empresa brasileira de tecnologia que eu criei. Hoje ela tr
 | **Bot de Vendas** | Transforma o servidor do Discord em uma loja: produtos, painéis, carrinho privado, cupons e entrega automática. O Pix cai direto na conta do vendedor, sem mensalidade, e o Grupo MW cobra uma taxa pequena por venda. |
 | **Bot Próprio** | O bot com o nome e a foto do cliente, hospedado por nós. Ele escolhe os módulos (vendas, atendimento com tickets, administração e verificação de membros) e paga uma mensalidade fixa, sem taxa por venda. |
 | **Loja MWO** | Vitrine de ofertas das principais lojas do Brasil, com alertas de promoção num grupo gratuito. Só entra produto bem avaliado. |
-| **MWCode** | Plataforma [open-source](https://github.com/mweslley/mwcode) de agentes de inteligência artificial: um agente sozinho ou uma equipe de agentes coordenada. |
 
 <br/>
 
